@@ -1,0 +1,14 @@
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\ServerConfigForm-P5-086\ServerConfigForm-P5-086\bin\Debug\ServerConfigForm-P5-086.exe.config
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\ServerConfigForm-P5-086\ServerConfigForm-P5-086\bin\Debug\ServerConfigForm-P5-086.exe
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\ServerConfigForm-P5-086\ServerConfigForm-P5-086\bin\Debug\ServerConfigForm-P5-086.pdb
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\ServerConfigForm-P5-086\ServerConfigForm-P5-086\bin\Debug\ServiceMtk-P1-NIM.dll
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\ServerConfigForm-P5-086\ServerConfigForm-P5-086\bin\Debug\ServiceMtk-P1-NIM.pdb
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\ServerConfigForm-P5-086\ServerConfigForm-P5-086\bin\Debug\ServiceMtk-P1-NIM.dll.config
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\ServerConfigForm-P5-086\ServerConfigForm-P5-086\obj\Debug\ServerConfigForm-P5-086.csprojAssemblyReference.cache
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\ServerConfigForm-P5-086\ServerConfigForm-P5-086\obj\Debug\ServerConfigForm_P5_086.Form1.resources
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\ServerConfigForm-P5-086\ServerConfigForm-P5-086\obj\Debug\ServerConfigForm_P5_086.Properties.Resources.resources
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\ServerConfigForm-P5-086\ServerConfigForm-P5-086\obj\Debug\ServerConfigForm-P5-086.csproj.GenerateResource.cache
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\ServerConfigForm-P5-086\ServerConfigForm-P5-086\obj\Debug\ServerConfigForm-P5-086.csproj.CoreCompileInputs.cache
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\ServerConfigForm-P5-086\ServerConfigForm-P5-086\obj\Debug\ServerConfigForm-P5-086.csproj.CopyComplete
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\ServerConfigForm-P5-086\ServerConfigForm-P5-086\obj\Debug\ServerConfigForm-P5-086.exe
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\ServerConfigForm-P5-086\ServerConfigForm-P5-086\obj\Debug\ServerConfigForm-P5-086.pdb
